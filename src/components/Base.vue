@@ -35,7 +35,6 @@
         hide-details
       ></v-text-field>
     </v-app-bar>
-
     <v-main>
       <v-container class="fill-height grey lighten-5" fluid>
         <v-row>
